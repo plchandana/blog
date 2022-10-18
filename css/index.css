@@ -1,0 +1,14 @@
+body{
+    background-color:goldenrod ;
+}
+
+#jumbo-header{
+    text-align: center ;
+    font: weight 10px;;
+    font-size: 45px;
+    font-family: 'Russo One', sans-serif;
+}
+#jumbo-emoji{
+    text-align: center;
+
+}
