@@ -1,0 +1,9 @@
+body{
+    background-color:rgb(46, 37, 37) ;
+}
+#card_header{
+    background-color: blue;
+}
+#card_body{
+    background-color: red;
+}
